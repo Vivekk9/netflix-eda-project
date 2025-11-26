@@ -20,7 +20,8 @@ Probability-based insights
 
 The project is structured to reflect real-world data analysis workflows used by data analysts, ML engineers, and data scientists.
 
-🗂️ Project Structure```
+🗂️ Project Structure
+```
 Netflix-EDA-Project/
 │
 ├── data/
