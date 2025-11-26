@@ -73,7 +73,7 @@ Statistics → mean, median, std, IQR, probability
 Python → list comprehensions, filtering, logic
 
 📊 2. Objectives
-
+```
 ✔ Understand distribution of Movies vs TV Shows
 ✔ Explore genre patterns
 ✔ Analyze release year trends
@@ -82,6 +82,7 @@ Python → list comprehensions, filtering, logic
 ✔ Detect outliers using IQR
 ✔ Apply probability concepts to the dataset
 ✔ Visualize important insights
+```
 
 📁 3. Dataset
 
