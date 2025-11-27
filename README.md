@@ -142,7 +142,7 @@ All exported to the `images/` folder.
 ## 8. Conclusions
 
 - Netflix's catalog is predominantly modern (post-2010).  
-- Strong focus on drama, international content, comedies, and documentaries.  
+- Strong focus on drama, international content, comedies, international tv shows, and documentaries.  
 - Mature ratings (TV-MA, TV-14) dominate.  
 - Only ~8% of titles qualify as outliers (pre-2004).  
 - Platform shows global diversity in genres and regions.  
