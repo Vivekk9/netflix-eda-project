@@ -20,7 +20,8 @@ netflix-eda-project/
 │   └── netflix_eda.ipynb
 │
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── .gitignore
 ```
 ---
 
@@ -39,7 +40,7 @@ The dataset contains ~8800 titles, including movies and TV shows. Key columns in
 - duration  
 - listed_in (genres)
 
-Dataset source: Kaggle — "Netflix Movies and TV Shows".
+Dataset source: Kaggle — "Netflix Movies and TV Shows" (CC0: Public Domain)[https://www.kaggle.com/datasets/shivamb/netflix-shows].
 
 ---
 
