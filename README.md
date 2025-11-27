@@ -69,9 +69,9 @@ Top genres:
 - Documentaries (869) 
 
 ### Release Year Insights
-- Mean release year: ~2015  
-- Median: ~2014–2016  
-- Standard deviation: ~6 years  
+- Mean release year: ~2014  
+- Median: 2017  
+- Standard deviation: ~8-9 years  
 - IQR: ~6  
 - Outliers: ~719 titles (mostly before 2004)  
 - Catalog is heavily modern and right-skewed.
@@ -81,16 +81,16 @@ Most common ratings:
 - TV-MA  
 - TV-14  
 - R  
-- PG-13  
+- TV-PG 
 
 ### Runtime (Movies)
 - Mean runtime: ~95–100 minutes  
 - Slight right-skew due to long-tail distribution.
 
 ### Probability Analysis
-- P(title is TV Show): ~0.30  
-- P(title is from India): ~0.10  
-- P(title is rated TV-MA): ~0.25–0.30  
+- P(title is TV Show): 30.38%  
+- P(title is from India): 11.88% 
+- P(title is rated TV-MA): 36.41% 
 
 ---
 
