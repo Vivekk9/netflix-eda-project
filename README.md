@@ -5,20 +5,24 @@ This project performs an end-to-end exploratory data analysis (EDA) of the Netfl
 ---
 
 ## 1. Project Structure
+
+## 🗂️ Project Structure
 ```
-Netflix-EDA-Project/
+netflix-eda-project/
 ├── data/
-│   └── netflix_titles.csv
+│   ├── netflix_titles.csv
+│   ├── netflix_cleaned.csv
+│   └── summary.json
+│
+├── images/
+│   └── *.png
+│
 ├── notebooks/
 │   └── netflix_eda.ipynb
-├── reports/
-│   └── Netflix_EDA_Report.pdf
-├── images/
-│   └── plots.png
+│
 ├── README.md
 └── requirements.txt
 ```
-
 ---
 
 ## 2. Dataset Overview
