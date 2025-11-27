@@ -6,7 +6,6 @@ This project performs an end-to-end exploratory data analysis (EDA) of the Netfl
 
 ## 1. Project Structure
 
-## 🗂️ Project Structure
 ```
 netflix-eda-project/
 ├── data/
